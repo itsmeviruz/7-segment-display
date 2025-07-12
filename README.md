@@ -22,3 +22,18 @@
 | D   | 0 | 1 | 1 | 1 | 1 | 0 | 1 |
 | E   | 1 | 0 | 0 | 1 | 1 | 1 | 1 |
 | F   | 1 | 0 | 0 | 0 | 1 | 1 | 1 |
+
+
+
+## 🖼️ Segment Examples (0 → F)
+
+| Hex | Preview | Hex | Preview |
+|-----|---------|-----|---------|
+| 0   | ![](images/seg_00.png) | 8  | ![](images/seg_08.png) |
+| 1   | ![](images/seg_01.png) | 9  | ![](images/seg_09.png) |
+| 2   | ![](images/seg_02.png) | A  | ![](images/seg_10.png) |
+| 3   | ![](images/seg_03.png) | B  | ![](images/seg_11.png) |
+| 4   | ![](images/seg_04.png) | C  | ![](images/seg_12.png) |
+| 5   | ![](images/seg_05.png) | D  | ![](images/seg_13.png) |
+| 6   | ![](images/seg_06.png) | E  | ![](images/seg_14.png) |
+| 7   | ![](images/seg_07.png) | F  | ![](images/seg_15.png) |
